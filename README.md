@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mihir Dabhi</h1>
+<h1 align="center">Hey There 👋 I am Mihir Dabhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
